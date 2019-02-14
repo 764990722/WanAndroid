@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WanAndroidmy</string>
+
+    <!--iconfont字体图标-->
+    <string name="tab_left">&#xe65c; </string> <!--左对齐-->
+    <string name="tab_right">&#xe65b; </string> <!--右对齐-->
+    <string name="ic_hot">&#xe610; </string> <!--火苗-->
+    <string name="ic_return">&#xe684; </string> <!--返回-->
+    <string name="ic_share">&#xe614; </string> <!--分享-->
+    <string name="ic_search">&#xe673; </string> <!--搜索-->
+    <string name="ic_collect_nor">&#xe60f; </string> <!--收藏-->
+    <string name="ic_collect_sel">&#xe633; </string> <!--已收藏-->
+    <string name="ic_about">&#xe626; </string> <!--关于-->
+    <string name="ic_close">&#xe604; </string> <!--关闭-->
+    <string name="ic_home">&#xe608; </string> <!--首页-->
+    <string name="ic_type">&#xe66b; </string> <!--分类-->
+    <string name="ic_user">&#xe706; </string> <!--个人-->
+    <string name="ic_more">&#xe63e; </string> <!--更多-->
+    <string name="ic_android">&#xe679; </string> <!--安卓logo-->
+
+    <string name="action_share">分享</string>
+    <string name="copy_link">复制链接</string>
+    <string name="copy_link_success">已复制链接</string>
+</resources>
